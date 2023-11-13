@@ -5,7 +5,7 @@ Accede al CMS de páginas modulares desde el menú lateral **Modular Pages**.&#x
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
+Si no tienes acceso consulta con tu OBPM para que pueda gestionarlo.
 {% endhint %}
 
 ### Antes de empezar...
