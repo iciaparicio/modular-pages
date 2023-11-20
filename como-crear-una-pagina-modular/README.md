@@ -26,6 +26,3 @@ EL proceso de creación de una página modular está dividido en varios pasos:
 [vista-previa.md](vista-previa.md)
 {% endcontent-ref %}
 
-## lkjf-ldkjs-lkfj-klsjf-sjd-flfd
-
-**contenido**
