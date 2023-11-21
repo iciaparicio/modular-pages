@@ -1,6 +1,6 @@
 # Cómo crear una página modular
 
-Haz clic en **Create page** para crear una página nueva.
+Haz clic en **Create page** para crear una página nueva
 
 ![](../.gitbook/assets/CrearPaginaBoton.png)
 
