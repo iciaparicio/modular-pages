@@ -1,25 +1,23 @@
 # Modular Pages CMS
 
-Accede al CMS de páginas modulares desde el menú lateral **Modular Pages**.&#x20;
+Access the Modular Pages CMS from the **Modular Pages** side menu.
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image%20(12).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Si no tienes acceso consulta con tu OBPM para que pueda gestionarlo.
-{% endhint %}
+{% hint style="info" %} If you do not have access, ask the TCX OBPM for assistance. {% endhint %}
 
-### Antes de empezar...
+### Before starting...
 
-#### ¿Qué es una página modular?
+#### What is a modular page?
 
-Una página modular es cualquier página de la app compuesta por módulos.
+A modular page is any app page made up of modules.
 
-Las páginas modulares permiten incluir tanto módulos configurables desde otro CMS (alertas, extras, entry point lists...) así como otros módulos más sencillos que anteriormente se gestionaban por config.
+Modular pages allow you to include modules that can be configured from another CMS (alerts, extras, entry point lists, etc.) as well as other, simpler modules that were previously managed by config.
 
-#### Qué ventajas tiene usar este CMS
+#### What are the advantages of using this CMS?
 
-* **Previsualización**. En todo momento, tanto cuando se añade un módulo como cuando se configura la página, hay una vista previa disponible para que el usuario del CMS pueda ver cómo queda el contenido. ​
-* **Gestión de módulos**. Los módulos se reordenan de manera sencilla, y se pueden activar o desactivar en función de las necesidades.​
-* **Estructura del contenido**. El uso de secciones ayuda a organizar el contenido en función de la temática de los módulos. Esas secciones pueden llevarse, o no, a la app.
-* **Inmediatez de los cambios**. Los cambios hechos en el CMS de Modular pages son prácticamente inmediatos para los usuarios de la app. Una vez publicados, no es necesario release de backend ni de otro tipo.
-* **Prueba de cambios o de configuración antes de publicar.** Con la herramienta de Test de contenido es posible probar cómo se visualiza una página en un dispositivo antes de publicar los cambios.&#x20;
+- **Preview**. At all times, both when adding a module and when configuring the page, a preview is available that shows the CMS user what the content will look like.
+- **Module management**. The modules are easily rearranged and can be activated or deactivated as required.
+- **Content structure**. The use of sections helps to organize the content based on the theme of the modules. These sections may or may not be carried into the app.
+- **Immediacy of changes**. The changes made in the Modular Pages CMS are implemented practically immediately for app users. Once published, no backend or other release is required.
+- **Test changes or configuration before publishing.** With the Content Test tool, you can see what a page will look like on a device before the changes are published.
