@@ -8,7 +8,7 @@ EL proceso de creación de una página modular está dividido en varios pasos:
 
 ![](../.gitbook/assets/steps.png)
 
-**Paso 1. Overview**. En este paso se configura la información general de la página (Nombre interno, ID, tipo de página...)
+**Paso 1. Overview**. En este paso se configura la información general de la página (Nombre interno, ID, tipo de página...).
 
 {% content-ref url="overview.md" %}
 [overview.md](overview.md)
@@ -25,4 +25,3 @@ EL proceso de creación de una página modular está dividido en varios pasos:
 {% content-ref url="vista-previa.md" %}
 [vista-previa.md](vista-previa.md)
 {% endcontent-ref %}
-

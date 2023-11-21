@@ -12,7 +12,7 @@ La condición necesaria es que añadas una audiencia para esta nueva página par
 
 Ejemplo:
 
-_Alice está creando una página de inicio de la app con varios módulos. Pero sabe que para un determinado grupo de usuarios, aquellos que aún no disponen de su usuario porque acaban de darse de alta con la app, esa página de inicio es totalmente distinta._
+_Alice está creando una página de inicio de la app con varios módulos. Pero sabe que, para un determinado grupo de usuarios, aquellos que aún no disponen de su usuario porque acaban de darse de alta con la app, esa página de inicio es totalmente distinta._
 
 _¿Cómo lo hace Alice?_
 
@@ -38,7 +38,7 @@ Recuerda que **el sistema evalúa de arriba abajo**, es decir, la primera que co
 Ten muy en cuenta esto de cara a decidir el orden en que colocas estas páginas.
 {% endhint %}
 
-Mueve las páginas con _Drag\&Drop_ y cuando las tengas colocadas como consideras haz clic en **Save order.**
+Mueve las páginas con _Drag\&Drop_ y, cuando las tengas colocadas como consideres, haz clic en **Save order.**
 
 {% hint style="warning" %}
 Solo puedes tener una página que **no contenga audiencias** y esa página tiene que estar siempre en **último lugar**. El sistema te avisa si esto no se cumple e intentas guardar un orden incorrecto.

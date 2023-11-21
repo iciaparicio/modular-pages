@@ -12,7 +12,7 @@ Para publicar el contenido de un test accede a la página sobre la que está en 
 
 Al abrir la página modular, el contenido aparece dividido en dos pestañas para que puedas ver, en todo momento, el contenido previo al test y el propio contenido del test.
 
-👋🏽 El nombre de la otra pestaña se refiere al estado en el que está el contenido que NO es no está bajo el test.
+👋🏽 El nombre de la otra pestaña se refiere al estado en el que está el contenido que NO está bajo el test.
 
 <figure><img src=".gitbook/assets/tabTestModularPages.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,11 +20,11 @@ Al abrir la página modular, el contenido aparece dividido en dos pestañas para
 Solo puedes hacer cambios en el contenido si estás en la pestaña **Test**. Usa la otra pestaña para ver el contenido previo a los cambios que has hecho para el test.&#x20;
 {% endhint %}
 
-Para **guardar los cambios** hechos sobre un test **pero no publicarlos** entonces haz clic en **Save test**:
+Para **guardar los cambios** hechos sobre un test, **pero no publicarlos,** entonces haz clic en **Save test**:
 
 <figure><img src=".gitbook/assets/saveTestButtom.png" alt=""><figcaption></figcaption></figure>
 
-Cuando te hayas asegurado de que el contenido que tienes en la pestaña **Test**, en todos los pasos, es el contenido que quieres aplicar entonces haz clic en **Save and Publish**. Indica una descripción de esos cambios y haz clic en **Confirm** para validar los cambios y publicar.
+Cuando te hayas asegurado de que el contenido que tienes en la pestaña **Test**, en todos los pasos, es el contenido que quieres aplicar, entonces haz clic en **Save and Publish**. Indica una descripción de esos cambios y haz clic en **Confirm** para validar los cambios y publicar.
 
 Haz clic en **Close** para volver a la pantalla principal de páginas modulares.
 
@@ -34,7 +34,7 @@ Haz clic en **Close** para volver a la pantalla principal de páginas modulares.
 
 ### Cómo descartar un test
 
-Si tras probar el contenido de una página modular, con un Test en curso, decides descartar los cambios entonces accede a la página sobre la que está en marcha ese test.
+Si tras probar el contenido de una página modular, con un test en curso, decides descartar los cambios entonces accede a la página sobre la que está en marcha ese test.
 
 Haz clic en **Continue** hasta llegar al último paso **Preview** y haz clic en **Discard test**.
 
@@ -42,7 +42,7 @@ Haz clic en **Continue** hasta llegar al último paso **Preview** y haz clic en 
 
 Cuando descartas un test implica eliminar los cambios que habías hecho sobre la página modular. Tanto el contenido como el estado de esa página se queda como estaba previamente, antes del test.&#x20;
 
-### Como añadir, quitar o modificar los Novum user IDs de un test
+### Cómo añadir, quitar o modificar los Novum user IDs de un test
 
 Si necesitas editar el test para poder añadir, quitar o modificar los usuarios que pueden ver un determinado test entonces accede a la página modular que tiene el test.
 

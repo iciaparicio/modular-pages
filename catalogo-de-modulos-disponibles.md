@@ -2,7 +2,7 @@
 
 Desde la página principal de Modular Pages CMS dispones de un acceso directo al catálogo de módulos disponibles.
 
-Haz clic en **Module Catalog** para acceder al catálogo completo.
+Haz clic en **Modules Catalog** para acceder al catálogo completo.
 
 <figure><img src=".gitbook/assets/moduleCatalogDetail.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,13 +14,13 @@ En la parte **izquierda** tienes el **listado de todos los módulos** disponible
 
 <figure><img src=".gitbook/assets/CatalogModuleOptionsNumbers.png" alt=""><figcaption></figcaption></figure>
 
-1. **Nombre** del módulo
-2. **Visual**: nombre del visual
+1. **Nombre** del módulo.
+2. **Visual**: nombre del visual.
 3. **Stereotype**: nombre del estereotipo al que pertenece. Esta información es muy útil para los perfiles de desarrollo.
 4. Menú adicional con acceso a:
-   * **See usages**. Haz clic para ver en qué páginas se está usando este módulo
+   * **See usages**. Haz clic para ver en qué páginas se está usando este módulo.
    * **Filter modules like this**: Muestra los módulos que pese a ser visualmente diferentes usan el mismo estereotipo.
-   * Si el módulo dispone de un editor aparece el nombre de ese editor y te permite acceder directamente. \
+   * Si el módulo dispone de un editor, aparece el nombre de ese editor y te permite acceder directamente. \
      \
      👋🏽 Ejemplos de editores: Entry point list, Explore, Alerts, Extras, Start tab header.
 5. **Previsualización del módulo**. Puedes ver una previsualización de cómo será el módulo, para que te hagas una idea y de un vistazo sepas si te resulta útil.

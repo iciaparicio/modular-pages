@@ -2,23 +2,23 @@
 
 ### Crear un test A/B
 
-Desde Modular pages es posible realizar un test A/B para poder testar cómo funciona un cambio en un módulo.
+Desde Modular Pages es posible realizar un test A/B para poder testar cómo funciona un cambio en un módulo.
 
 ### Antes de empezar...
 
 Es importante que tengas en cuenta que no es posible crear un test A/B sin coordinarlo con el equipo de Digital Analytics dado que la base de un test A/B es poder medir los resultados. Para poder medir esos resultados es necesario el uso de Firebase.
 
-### Pasos a seguir para crear un Test A/B en Modular pages
+### Pasos a seguir para crear un Test A/B en Modular Pages
 
-**Paso 1**. Para empezar es necesario tener permisos de creación de Test A/B en el CMS. Si no lo tienes, contacta con el NOC para que te los dé ![(guiño)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/wink.svg). También puedes pedir ayuda a tu OBPM o persona de referencia que tengas en Novum para que te ayude.
+**Paso 1**. Para empezar, es necesario tener permisos de creación de Test A/B en el CMS. Si no lo tienes, contacta con el NOC para que te los dé ![(guiño)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/wink.svg). También puedes pedir ayuda a tu OBPM o persona de referencia que tengas en Novum para que te ayude.
 
 {% hint style="info" %}
 No es un permiso que tengas activado por defecto así que si no lo has solicitado nunca lo normal es que NO lo tengas. 🙋🏾
 {% endhint %}
 
-**Paso 2**. Accede a Modular pages y edita la página en la que quieras meter ese Test.
+**Paso 2**. Accede a Modular Pages y edita la página en la que quieras meter ese test.
 
-**Paso 3**. En el paso **Content**, busca el módulo que quieres testar. Haz clic en el submenú del módulo y selecciona la opción **A/B Test**
+**Paso 3**. En el paso **Content**, busca el módulo que quieres testar. Haz clic en el submenú del módulo y selecciona la opción **A/B Test.**
 
 <figure><img src=".gitbook/assets/iniciarABTest.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,9 +37,9 @@ Como ves, se ha creado otro módulo y ahora cada uno está identificado con A y 
 
 ![(estrella roja)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/star\_red.svg) **IMPORTANTE** ![(estrella roja)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/star\_red.svg)
 
-Hasta que el test no se lance en Firebase el usuario de la app seguirá viendo lo que hay en producción, es decir, el módulo de referencia, con independencia de que ya se haya configurado el test en Modular pages. Por eso es de vital importancia que te coordines con el equipo de Digital Analytics para que sepas cuándo empezará a verse el test. La parte buena es que puedes dejarlo preparado en el CMS de Modular pages para cuando DA pueda activarlo en Firebase.
+Hasta que el test no se lance en Firebase el usuario de la app seguirá viendo lo que hay en producción, es decir, el módulo de referencia, con independencia de que ya se haya configurado el test en Modular Pages. Por eso es de vital importancia que te coordines con el equipo de Digital Analytics para que sepas cuándo empezará a verse el test. La parte buena es que puedes dejarlo preparado en el CMS de Modular pages para cuando DA pueda activarlo en Firebase.
 
-### Pasos para marcar opción ganadora en Modular pages
+### Pasos para marcar opción ganadora en Modular Pages
 
 El test A/B ha finalizado y ya tienes los resultados en Firebase. Y ahora, ¿qué?
 
@@ -54,7 +54,7 @@ El test A/B ha finalizado y ya tienes los resultados en Firebase. Y ahora, ¿qu�
 \
 
 
-**Paso 3.** Aparece una ventana de resumen mostrando el módulo ganador y una preview. Confirma el cambio haciendo clic en **Set as Winner**. En ese momento se elimina el módulo descartado.
+**Paso 3.** Aparece una ventana de resumen mostrando el módulo ganador y una previsualización. Confirma el cambio haciendo clic en **Set as winner**. En ese momento se elimina el módulo descartado.
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
