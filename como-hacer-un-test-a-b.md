@@ -10,7 +10,7 @@ Es importante que tengas en cuenta que no es posible crear un test A/B sin coord
 
 ### Pasos a seguir para crear un Test A/B en Modular Pages
 
-**Paso 1**. Para empezar, es necesario tener permisos de creación de Test A/B en el CMS. Si no lo tienes, contacta con el NOC para que te los dé ![(guiño)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/wink.svg). También puedes pedir ayuda a tu OBPM o persona de referencia que tengas en Novum para que te ayude.
+**Paso 1**. Para empezar, es necesario tener permisos de creación de Test A/B en el CMS. Si no lo tienes, contacta con el NOC para que te los dé <img src="https://confluence.tid.es/s/24eubp/9012/15522zw/_/images/icons/emoticons/wink.svg" alt="(guiño)" data-size="original">. También puedes pedir ayuda a tu OBPM o persona de referencia que tengas en Novum para que te ayude.
 
 {% hint style="info" %}
 No es un permiso que tengas activado por defecto así que si no lo has solicitado nunca lo normal es que NO lo tengas. 🙋🏾
@@ -35,7 +35,7 @@ Como ves, se ha creado otro módulo y ahora cada uno está identificado con A y 
 **Paso 6.** **IMPORTANTE**. Aún no se han llevado los cambios a PROD porque para ello tienes que hacer clic en **Continue**, en el paso **2 Content** en el que estás. Y terminar de publicar, en el paso 3, toda la página modular.\
 
 
-![(estrella roja)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/star\_red.svg) **IMPORTANTE** ![(estrella roja)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/star\_red.svg)
+![(estrella roja)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/star\_red.svg) **IMPORTANTE** ![(estrella roja)](https://confluence.tid.es/s/24eubp/9012/15522zw/\_/images/icons/emoticons/star\_red.svg)&#x20;
 
 Hasta que el test no se lance en Firebase el usuario de la app seguirá viendo lo que hay en producción, es decir, el módulo de referencia, con independencia de que ya se haya configurado el test en Modular Pages. Por eso es de vital importancia que te coordines con el equipo de Digital Analytics para que sepas cuándo empezará a verse el test. La parte buena es que puedes dejarlo preparado en el CMS de Modular pages para cuando DA pueda activarlo en Firebase.
 
